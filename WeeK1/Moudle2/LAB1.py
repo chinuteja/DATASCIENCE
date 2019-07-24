@@ -112,7 +112,7 @@ np.sum(df.rating < 3)
 # In[11]:
 
 
-print 1*True, 1*False
+# print 1*True, 1*False
 
 
 # In[12]:
